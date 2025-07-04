@@ -1,7 +1,7 @@
 
 const Header = () => {
   return (
-    <div>Header</div>
+    <div className="bg-amber-500 p-7">TaskTrail</div>
   )
 }
 
